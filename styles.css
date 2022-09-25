@@ -63,6 +63,10 @@ i:hover {
     
 }
 
+li {
+    list-style-type: none;
+}
+
 .flex {
    display: flex; 
 }
